@@ -1,3 +1,3 @@
-#  Envirement for kobk running Website
+#  Enviroment for kobk running Website
 
 more to come
