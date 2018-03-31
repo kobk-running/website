@@ -1,3 +1,3 @@
-# Staging Envirement of kobk running Website
+#  Envirement for kobk running Website
 
 more to come
