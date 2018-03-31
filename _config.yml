@@ -1,0 +1,26 @@
+title: Kill or be Kilt
+subtitle: Come Find out what is under out kilt !!!!
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the KOBK running site, we are a social running group,
+  always looking for new members.
+author: Randall Mawhinnie
+email: kobk.running@gmail.com
+avatar: assets/images/avatar.jpg
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+facebook_url:
+github_url: https://github.com/orgs/kobk-running/
+instagram_url:
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/KOBKrunning
+
+# Google Analytics Tracking ID goes here:
+google_analytics: 
+
+# The following settings are NECESSARY for the Prologue theme to run:
+theme: jekyll-theme-prologue
+collections: [sections]
