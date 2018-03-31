@@ -1,11 +1,12 @@
----
-layout: calendar  # required
+layout: page
 title: Calander
+permalink: /calendar
+background-image: assets/images/eilean_donan.jpg
+type: info
+calendar: true
 order: 4
-
-calendar_timezone_offset: -0800   # required
-calendar_csv: ../events.csv  # required. Path from base url
-
-# calendar_focus_date: 2016-01-06   # optional. YYYY-MM-DD. Without it, the default is today
-# calendar_caption: My calendar caption   # optional
 ---
+<div class="span9">
+	<iframe src="https://calendar.google.com/calendar/embed?src=kobk.running%40gmail.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div><!--/span-->
+
